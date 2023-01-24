@@ -4,6 +4,7 @@
 
 This challenge involves using streamlit to build a frontend to support a simple blockchian ledger. Users can interact with the frontend to add a transaction 
 to the pyChain. The Screenshots show a chain with multiple blocks added, as well as the backend validating the existence of those blocks. 
+The data class decorator is used to create the interactive frontend, it stores a timestamp, creatorID, user hash ,and  nonce (transaction hash),
 
 
 
